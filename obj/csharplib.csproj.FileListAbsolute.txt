@@ -1,0 +1,17 @@
+C:\Downloads\CD-REC\TEST\_CPP_\PROJECT_001\csharplib\bin\Debug\csharplib.dll
+C:\Downloads\CD-REC\TEST\_CPP_\PROJECT_001\csharplib\bin\Debug\csharplib.pdb
+C:\Downloads\CD-REC\TEST\_CPP_\PROJECT_001\csharplib\obj\Debug\ResolveAssemblyReference.cache
+C:\Downloads\CD-REC\TEST\_CPP_\PROJECT_001\csharplib\obj\Debug\csharplib.dll
+C:\Downloads\CD-REC\TEST\_CPP_\PROJECT_001\csharplib\obj\Debug\csharplib.pdb
+C:\Downloads\CD-REC\TEST\_CPP_\PROJECT_001\Debug\csharplib.dll
+C:\Downloads\CD-REC\TEST\_CPP_\PROJECT_001\Debug\csharplib.pdb
+C:\Downloads\CD-REC\Debug\csharplib.dll
+C:\Downloads\CD-REC\Debug\csharplib.pdb
+C:\Downloads\CD-REC\csharplib_unmanagedExports\obj\Debug\ResolveAssemblyReference.cache
+C:\Downloads\CD-REC\csharplib_unmanagedExports\obj\Debug\csharplib.dll
+C:\Downloads\CD-REC\csharplib_unmanagedExports\obj\Debug\csharplib.pdb
+C:\Downloads\CD-REC\csharplib_unmanagedExports\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Downloads\CD-REC\csharplib_unmanagedExports\obj\x86\Debug\csharplib.pdb
+C:\Downloads\CD-REC\csharplib_unmanagedExports\Debug\csharplib.pdb
+C:\Downloads\CD-REC\csharplib_unmanagedExports\Debug\csharplib.dll
+C:\Downloads\CD-REC\csharplib_unmanagedExports\obj\x86\Debug\csharplib.dll
