@@ -7,5 +7,11 @@ cdecl/pascal/stdcall/winapi from C,C++,Python,Delphi applications
 Это библиотека C#, которая экспортирует функции для других программ не .Net  
 Вы можете использовать функции библиотеки из программ, написанных на C, C++, Python, Delphi и др.
 
+**Alternatives**:    
+- [3F-DllExport](https://github.com/dkxce/3F-DllExport)
+
+**DLL Export Viewer**:    
+- [DllExportViewer](https://github.com/dkxce/DllExportViewer)
+
 <img src="window0.png"/>
 <img src="window1.png"/>
