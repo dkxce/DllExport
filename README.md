@@ -11,6 +11,7 @@ cdecl/pascal/stdcall/winapi from C,C++,Python,Delphi applications
 - [3F-DllExport](https://github.com/dkxce/3F-DllExport)
 
 **DLL Export Viewer**:    
+- [DllExportList](https://github.com/dkxce/DllExportList)
 - [DllExportViewer](https://github.com/dkxce/DllExportViewer)
 
 <img src="window0.png"/>
